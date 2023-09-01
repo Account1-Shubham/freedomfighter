@@ -1,0 +1,53 @@
+body, h1, h2, p, ul, li, a {
+    margin: 10;
+    padding: 5;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #033;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    margin: 20px;
+}
+
+#freedom-fighters {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
